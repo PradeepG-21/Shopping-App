@@ -1,4 +1,4 @@
-This is an E Commerce shopping platform app that aims to clone the functionality of Amazon and Flipkart
+This is an E Commerce shopping platform app that aims to clone the functionality of Amazon and Flipkart.
 
 # Getting Started with Create React App
 
